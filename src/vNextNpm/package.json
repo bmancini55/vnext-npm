@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "ResponseTimer": "bmancini55/aspnet-responsetimer"
+  }
+}
